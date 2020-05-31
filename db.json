@@ -71,6 +71,62 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 9759271,
+      "category": "",
+      "organizer": {
+        "id": "gpgugu",
+        "name": "gugu meri"
+      },
+      "title": "Gugu testing",
+      "description": "hey there, how are you doing?",
+      "location": "Mohali",
+      "date": "2020-05-23T10:41:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 7508555,
+      "category": "community",
+      "organizer": {
+        "id": "gpgugu",
+        "name": "gugu meri"
+      },
+      "title": "sdfsdf",
+      "description": "sdfds",
+      "location": "sfdssdf",
+      "date": "2020-05-08T10:48:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 4588542,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "gpgugu",
+        "name": "gugu meri"
+      },
+      "title": "sdf",
+      "description": "sdf",
+      "location": "dsfsd",
+      "date": "2020-05-01T10:49:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 2794201,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "gpgugu",
+        "name": "gugu meri"
+      },
+      "title": "sdfdsfsdgfdg",
+      "description": "fdhfhsdg d sdf dsf",
+      "location": "Mohali",
+      "date": "2020-05-08T10:50:00.000Z",
+      "time": "3:00",
+      "attendees": []
     }
   ]
 }
